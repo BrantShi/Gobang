@@ -1,7 +1,7 @@
 本文对笔者使用Java独立开发的PC端五子棋游戏的简单总结，概述。本游戏基于Swing组件，实现悔棋，认输，人机对弈等功能，属于Java的入门/初级应用，仅用于记录自身成长及供道友参考。大致效果图如下：
 <img src="http://brantshi.github.io/assets/img/post_img/021.png">
 更详细的介绍可参考博客：
-
+<img src="https://brantshi.github.io/Java%E5%AE%9E%E7%8E%B0%E7%9A%84PC%E7%AB%AF%E4%BA%94%E5%AD%90%E6%A3%8B%E6%B8%B8%E6%88%8F/">https://brantshi.github.io/Java%E5%AE%9E%E7%8E%B0%E7%9A%84PC%E7%AB%AF%E4%BA%94%E5%AD%90%E6%A3%8B%E6%B8%B8%E6%88%8F/</img>
 ## 代码结构
 
 本游戏基于Intellij实现，共有GobangUI，ChessListener，Check，AI，Config五个Java类；
